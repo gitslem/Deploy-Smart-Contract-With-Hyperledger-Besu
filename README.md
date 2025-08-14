@@ -3,6 +3,9 @@ Overview
 This repository contains the implementation and demonstration of a blockchain-based project completed as part of an academic assignment. The work covers the following key areas:
 	•	Part 1: Deployment of a smart contract using Hyperledger Besu (Ethereum-compatible enterprise blockchain platform).
 	•	Part 2: Demonstration of a new Hyperledger product, with practical example.
+
+
+
 Table of Contents
 	1.	Part 1: Smart Contract Deployment with Hyperledger Besu
 	2.	Part 2: New Hyperledger Product Demonstration
