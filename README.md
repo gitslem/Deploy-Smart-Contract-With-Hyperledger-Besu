@@ -5,17 +5,6 @@ This repository contains the implementation and demonstration of a blockchain-ba
 	•	Part 2: Demonstration of a new Hyperledger product, with practical example.
 
 
-
-Table of Contents
-	1.	Part 1: Smart Contract Deployment with Hyperledger Besu
-	2.	Part 2: New Hyperledger Product Demonstration
-	3.	Part 3 (Bonus): Corda App Deployment
-	4.	Technologies Used
-	5.	Setup Instructions
-	6.	Project Structure
-	7.	Screenshots & Demo
-	8.	References
-
 Part 1: Smart Contract Deployment with Hyperledger Besu
 
 Hyperledger Besu is an open-source Ethereum client designed for enterprise use, supporting Ethereum’s public and private networks.
